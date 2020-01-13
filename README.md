@@ -12,9 +12,9 @@
   </a>
 </p>
 
-Inspired by [Google Interview University](https://github.com/jwasham/google-interview-university).
+Inspired by [Coding Interview University](https://github.com/jwasham/coding-interview-university).
 
-Translations: [Brazilian Portuguese](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-pt-BR.md) | [中文版本](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md)  | [Français](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-fr-FR.md)
+Translations: [Brazilian Portuguese](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-pt-BR.md) | [中文版本](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md) | [Français](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-fr-FR.md) | [臺灣華語版本](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-TW.md)
 
 [How I (Nam Vu) plan to become a machine learning engineer](https://www.codementor.io/zuzoovn/how-i-plan-to-become-a-machine-learning-engineer-a4metbcuk)
 
@@ -274,6 +274,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ]  [Practical Deep Learning For Coders Version 2 (PyTorch)](http://forums.fast.ai/t/welcome-to-part-1-v2/5787)
 
 ## MOOC
+- [ ] [Coursera’s AI For Everyone](https://www.coursera.org/learn/ai-for-everyone)
 - [ ] [edX's Introduction to Artificial Intelligence (AI)](https://www.edx.org/course/introduction-artificial-intelligence-ai-microsoft-dat263x)
 - [ ] [Udacity’s Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
     - [Udacity Intro to Machine Learning Review](http://hamelg.blogspot.com/2014/12/udacity-intro-to-machine-learning-review.html)
@@ -341,6 +342,8 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [Comprehensive list of data science resources](http://www.datasciencecentral.com/group/resources/forum/topics/comprehensive-list-of-data-science-resources)
 - [DigitalMind's Artificial Intelligence resources](http://blog.digitalmind.io/post/artificial-intelligence-resources)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification)
+- [Awesome Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection)
 - [CreativeAi's Machine Learning](http://www.creativeai.net/?cat%5B0%5D=machine-learning)
 
 ## Games
